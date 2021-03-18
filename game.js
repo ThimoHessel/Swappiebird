@@ -235,7 +235,7 @@ const pipes = {
     },
     
     w : 53,
-    h : 398,
+    h : 396,
     gap : 100,
     maxYPos : -150,
     dx : 2,
