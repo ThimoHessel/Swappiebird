@@ -230,12 +230,12 @@ const pipes = {
         sY : 0
     },
     bottom:{
-        sX : 502,
+        sX : 500,
         sY : 0
     },
     
     w : 53,
-    h : 400,
+    h : 398,
     gap : 100,
     maxYPos : -150,
     dx : 2,
