@@ -116,16 +116,16 @@ const fg = {
 const bird = {
     animation : [
         {sX: 276, sY : 112},
-        {sX: 276, sY : 139},
-        {sX: 276, sY : 164},
-        {sX: 276, sY : 139}
+        {sX: 276, sY : 154},
+        {sX: 328, sY : 112},
+        {sX: 276, sY : 154}
     ],
     x : 50,
     y : 150,
-    w : 34,
-    h : 26,
+    w : 42,
+    h : 42,
     
-    radius : 10,
+    radius : 12,
     
     frame : 0,
     
