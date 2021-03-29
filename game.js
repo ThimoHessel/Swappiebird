@@ -125,7 +125,7 @@ const bird = {
     w : 42,
     h : 42,
     
-    radius : 13,
+    radius : 14,
     
     frame : 0,
     
